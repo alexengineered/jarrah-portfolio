@@ -1,2 +1,2 @@
 # jarrah-portfolio
-Cinematic portfolio with WebGL black hole particle effect that zooms on scroll, followed by scroll-snapping resume sections. Each section features animated canvas line effects and fade-in transitions.
+A dark, immersive portfolio featuring a Three.js black hole particle system as the opening experience. Users scroll to zoom into the black hole, which triggers automatic navigation to snap-scrolling resume sections. Each section includes animated canvas line effects, stroke/fill text treatments, and coordinated fade-in animations. Built with Three.js for 3D graphics, scroll-snap for precise section control, and IntersectionObserver for scroll-triggered effects. Perfect for engineers seeking a dramatic, sci-fi inspired presentation.
